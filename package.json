@@ -1,5 +1,5 @@
 {
-  "name": "@ali/example-component",
+  "name": "example-component",
   "version": "0.1.0",
   "description": "组件功能描述",
   "files": [
@@ -61,9 +61,6 @@
   },
   "peerDependencies": {
     "react": "^17 || ^18"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npm.alibaba-inc.com"
   },
   "license": "MIT"
 }
